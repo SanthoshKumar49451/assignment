@@ -5,7 +5,7 @@ import Glance from './components/Glance'
 import Insights from './components/Insights'
 import Tables from './components/Tables'
 import Aside from './components/Aside'
-import Chatbot from './components/Chatbot'
+
 
 
 
@@ -14,7 +14,7 @@ const App = () => {
     <div className='flex w-full ' >
       <div>
       <Aside/>
-      <Chatbot/>
+  
       </div>
       <div>
       <Navbar/>
